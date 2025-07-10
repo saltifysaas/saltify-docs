@@ -1,2 +1,1 @@
-# saltify-docs
-Public help center for SALTify SaaS
+# SALTify Help Center\n\nWelcome to the official SALTify SaaS documentation.
